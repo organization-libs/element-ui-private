@@ -160,5 +160,5 @@
 ## github存放地址
 
 ``` js
-  // https://github.com/lvxiaobu361
+  // https://github.com/organization-libs/element-ui-private
 ```
